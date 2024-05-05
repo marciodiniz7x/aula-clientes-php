@@ -10,7 +10,7 @@
 
         //Variáveis de conexão com o banco de dados
         $banco = "clientes";
-        $host = "localhost";
+        $host = "mysql";
         $user = "root";
         $senha = "";
 
