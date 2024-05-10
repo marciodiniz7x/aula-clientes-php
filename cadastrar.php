@@ -1,4 +1,5 @@
 <?php
+    
     //Cria uma condição para verificar se o envio das informações foram feitas
     //isset() Função para verificar existencia de algo
     //$_POST['name'] captura a informação enviada no nome indicado

@@ -23,7 +23,7 @@
             <input type="number" placeholder="Nº" name="numero" id="numero" class="input" autocomplete="off">
             <input type="text" placeholder="Bairro" name="bairro" id="bairro" class="input" autocomplete="off">
         </form>
-        <button onclick="validar();">Salvar</button>
+        <button onclick="validar();">Cadastrar</button>
     </section>
 </body>
 
